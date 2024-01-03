@@ -28,3 +28,5 @@ const sum = sums.reduce((acc,curr,i,arr)=>{
 },0)
 
 console.log(sum);
+
+//Pollyfill for map()
